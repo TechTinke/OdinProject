@@ -1,0 +1,13 @@
+// console.log(3 * (10 - 4));
+let studentName = "Stella";
+// console.log(studentName);
+const radius = 2;
+const pi = 3.14;
+const areaOfCircle = pi * (radius * 2);
+`console.log(areaOfCircle);`;
+// // const piii=3.14;
+// let email = "maingioscar2@gmail.com";
+// let password = "k123";
+// console.log(password);
+console.log(typeof pi);
+console.log(typeof studentName);
