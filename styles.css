@@ -1,3 +1,22 @@
 * {
   color: purple;
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+}
+.alert-text {
+  color: red;
+}
+.yulaa-text {
+  color: blue;
+}
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+.read {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.unread {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
